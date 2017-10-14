@@ -30,6 +30,12 @@
     <ClInclude Include="Student_info.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="stringmethods.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="framing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -42,6 +48,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Student_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stringmethods.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="framing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

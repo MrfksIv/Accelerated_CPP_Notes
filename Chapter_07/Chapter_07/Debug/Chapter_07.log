@@ -1,0 +1,4 @@
+﻿  Chapter_07.cpp
+c:\users\mrfksiv\documents\books\accelerated_cpp_notes\chapter_07\chapter_07\chapter_07.cpp(60): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Chapter_07.vcxproj -> C:\Users\mrfksiv\Documents\Books\Accelerated_CPP_Notes\Chapter_07\Debug\Chapter_07.exe
+  Chapter_07.vcxproj -> C:\Users\mrfksiv\Documents\Books\Accelerated_CPP_Notes\Chapter_07\Debug\Chapter_07.pdb (Full PDB)
